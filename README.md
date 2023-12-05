@@ -1,7 +1,10 @@
 <p align="center">
+    
     ![Minosse](/doc/assets/Minosse_logo.PNG "Minosse")
+   
     <br>
     <em>MINOSSE logo</em>
+
 </p>
 
 # MINOSSE
