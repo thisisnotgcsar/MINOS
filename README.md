@@ -1,10 +1,8 @@
-<center>
-
-![Minosse](/doc//assets/Minosse_logo.PNG "Minosse")
-<br>
-<em>MINOSSE logo</em>
-
-</center>
+<p align="center">
+    <![Minosse](/doc//assets/Minosse_logo.PNG "Minosse")
+    <br>
+    <em>MINOSSE logo</em>
+</p>
 
 # MINOSSE
 **MINOSSE** (MINOS in english, name inspired by the famous character in Dante's work) is a web-based, client-server application for electronic voting, real-time data collection, votes counting, and multi-candidate elections.
