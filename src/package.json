@@ -1,0 +1,30 @@
+{
+  "name": "minos",
+  "version": "1.0.0",
+  "description": "Electronic voting system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Giulio_Golinelli@bitbucket.org/Giulio_Golinelli/tesi-repo.git"
+  },
+  "keywords": [
+    "homomorphic_cryptography",
+    "paillier",
+    "voting"
+  ],
+  "author": "Giulio Golinelli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://bitbucket.org/Giulio_Golinelli/tesi-repo/issues"
+  },
+  "homepage": "https://bitbucket.org/Giulio_Golinelli/tesi-repo#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "paillier-bigint": "^3.2.3"
+  }
+}
