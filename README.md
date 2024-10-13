@@ -17,7 +17,7 @@ It is NOT a secure system and I do not assume any responsabilities of the usage 
 # Preface
 This project was created for my BSc thesis at the University of Bologna (UNIBO) in 2021, and it is archived and no longer maintained. Contributions to this repository are not accepted, but if you want to re-use my code, you can do so under its license constraints (see the LICENSE file).
 
-You can view the documentation in the doc/ directory, where you will also find the PDF of my thesis. Unfortunately, it is in Italian.
+You can view the documentation in the doc/ directory, where you will also find the PDF of my thesis. The document is available in English and Italian.
 
 # Brief Description
 Minosse is a web app that enables electronic (remote) voting. Remote voting poses a current challenge due to its intrinsic requirement for anonymity. Ciphering votes with a robust modern cipher addresses the problem until it's time to decrypt them. Encrypting votes with standard cryptographic schemes only serves to 'move' the problem. Homomorphic cryptographic schemes leverage their intrinsic malleability property to establish a homomorphism (a link) under a certain operation between ciphertexts and plaintexts.
